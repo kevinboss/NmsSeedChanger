@@ -5,4 +5,4 @@ http://nomansskymods.com/mods/seed-changer-shipmultitool-changer/
 
 
 TODO:
-better code organization
+better code organization, pretty ugly atm
